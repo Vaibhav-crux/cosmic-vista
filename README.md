@@ -44,17 +44,6 @@ To run tests, use the following command:
 npm run test
 ```
 
-## 📚 Documentation
-
-For a detailed API documentation, refer to the `docs` folder or access the Swagger documentation (if implemented) at:
-```
-http://localhost:3000/api-docs
-```
-
-## 🌟 Contribution Guidelines
-
-We welcome contributions! Feel free to fork this project, create a branch, and submit a pull request with your changes. Please adhere to the coding guidelines outlined in the `CONTRIBUTING.md` (if available).
-
 ## 🛠️ Built With
 
 - **Node.js**: JavaScript runtime environment
