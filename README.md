@@ -50,7 +50,3 @@ npm run test
 - **TypeScript**: For static typing
 - **Express**: Web framework for Node.js
 - **Mongoose**: ORM for database management
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
